@@ -1,0 +1,15 @@
+
+ ----------------------- ----------------------- > LIVE TESTING INDEX: gui_playlist_livetest_1731853307_index < ----------------------- 
+
+ ---~---> FILE Reading LIVE TESTING RECORDING Obs Seq: input_live_voice_data/gui_playlist_livetest_1731853307_index_obs_seq_.txt <---~--- 
+O[1]:5:	11 (1)	12 (2)	12 (3)	12 (4)	12 (5)	
+O[1]:W[Zero]::  Alpha P = 0.000190967
+O[1]:W[One]::  Alpha P = 1.23164e-068
+O[1]:W[Two]::  Alpha P = 3.54668e-097
+O[1]:W[Three]::  Alpha P = 1.3571e-097
+O[1]:W[Four]::  Alpha P = 9.02689e-097
+
+ -----------------> Word Recognized: Zero
+
+ ---------------------------------- --------------------------------------
+ <---------------------------------- ----------------------------------> SONG SELECT END <---------------------------------- -------------------------------------->
